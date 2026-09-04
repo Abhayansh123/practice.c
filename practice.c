@@ -19,4 +19,7 @@ int main() {
     printf("Mean: %d\n", mean);
 
     return 0;
+    printf("This line will not be executed because it is after the return statement.\n");
+    printf("bye world\n");
+    printf("hello world\n");
 }     
