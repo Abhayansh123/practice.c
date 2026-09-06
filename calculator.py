@@ -11,4 +11,3 @@ if b != 0:
     print("Division:", a / b)
 else:
     print("Cannot divide by zero")
-print("This line is a mistake")
