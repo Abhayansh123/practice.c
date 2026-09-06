@@ -15,4 +15,4 @@ if b != 0:
     print("Remainder:", a % b)
 else:
     print("Cannot find remainder with zero")
-print("This line is a mistake")
+print("line is removed from calculator")
