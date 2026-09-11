@@ -19,4 +19,5 @@ else:
 print("line is removed from calculator")
 print("line is removed from calculator")
 
-print("diff line ")learning git
+print("diff line ");
+print("a*b=", a*b);
